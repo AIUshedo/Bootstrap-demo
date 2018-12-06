@@ -1,0 +1,21 @@
+.jumbotron {
+  background-image: url("https://i.ytimg.com/vi/4wKXJZMbXZg/maxresdefault.jpg");
+  min-height: 700px;
+  min-width: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-size: cover;
+
+
+}
+
+.body{
+  background-image: image("");
+}
+.Mario {
+  border-radius: 20px;
+}
+div.embed-responsive {
+  margin-top: 20px;
+}
